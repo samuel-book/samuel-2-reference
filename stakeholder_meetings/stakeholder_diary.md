@@ -14,9 +14,9 @@ Key feedback from stakeholders interviewed in SAMueL-1:
 
 * Produce 'hospital profiles' summarising hospital (and in comparison with others).
 
-## 2/11/2022 RD&E stroke physicians
+## 2/11/2022 RD&E stroke physicians (woekshop 1)
 
-See slides: samuel_coproduction_workshop_01[https://github.com/samuel-book/samuel-2-reference/blob/main/stakeholder_meetings/samuel_coproduction_workshop_01.pdf]
+See slides: [samuel_coproduction_workshop_01](https://github.com/samuel-book/samuel-2-reference/blob/main/stakeholder_meetings/samuel_coproduction_workshop_01.pdf)
 
 1. Consider including patient age in our simplified model, as the docs said they used that, in combination with time elapsed, in their decision-making (and it was only just outside the reduced list of features we use in the simplified model). 
 
