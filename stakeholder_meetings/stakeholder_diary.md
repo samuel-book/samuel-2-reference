@@ -14,7 +14,7 @@ Key feedback from stakeholders interviewed in SAMueL-1:
 
 * Produce 'hospital profiles' summarising hospital (and in comparison with others).
 
-## 2/11/2022 RD&E stroke physicians (woekshop 1)
+## 2/11/2022 RD&E stroke physicians (workshop 1)
 
 See slides: [samuel_coproduction_workshop_01](https://github.com/samuel-book/samuel-2-reference/blob/main/stakeholder_meetings/samuel_coproduction_workshop_01.pdf)
 
