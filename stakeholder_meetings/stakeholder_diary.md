@@ -27,3 +27,5 @@ See slides: [samuel_coproduction_workshop_01](https://github.com/samuel-book/sam
 	* Patients with estimated (rather than precisely known) stroke onset time
 
 Note: a reason was given why thrombolysis use may fall with increasing pre-stroke disability. The possible benefit (such as mRS improvement) is reduced, so that changed the perceived risk-benefit 'calculation' a doc is making.
+
+3. Reverse Waterfall plot y-axis
