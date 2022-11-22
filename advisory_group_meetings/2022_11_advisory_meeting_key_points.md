@@ -2,13 +2,13 @@
 
 ## Attendees (initials) - Introductions
 
-Ajay Bhalla (AB) (chair) - Stroke consultant, Guys & St Thomas hospital. Work on SSNAP.
-Gary Ford (GF) - Academic stroke physician, Oxford. Executive of AHSN.
-Martin Utley (MU) - Operational researcher, UCL. Modelled patient flow in stroke pathways in North-Central London, advising capacity allocation along the pathway (hyper acute, acute & enhanced supported discharge). 
-Martin James (MJ) - Investigator on SAMueL2 project. Stroke physician, RD&E. Work on SSNAP.
-Keira Pratt-Boyden (KPB) - Qualitative researcher on SAMueL2 project.
-Mike Allen (MA) - Modeller data scientist, co-lead the SAMueL2 project with Martin James.
-Kerry Pearn (KP) (note-taker) - Modeller. Focusing on the explainable machine learning part.
+* Ajay Bhalla (AB) (chair) - Stroke consultant, Guys & St Thomas hospital. Work on SSNAP.
+* Gary Ford (GF) - Academic stroke physician, Oxford. Executive of AHSN.
+* Martin Utley (MU) - Operational researcher, UCL. Modelled patient flow in stroke pathways in North-Central London, advising capacity allocation along the pathway (hyper acute, acute & enhanced supported discharge). 
+* Martin James (MJ) - Investigator on SAMueL2 project. Stroke physician, RD&E. Work on SSNAP.
+* Keira Pratt-Boyden (KPB) - Qualitative researcher on SAMueL2 project.
+* Mike Allen (MA) - Modeller data scientist, co-lead the SAMueL2 project with Martin James.
+* Kerry Pearn (KP) (note-taker) - Modeller. Focusing on the explainable machine learning part.
 
 
 ## Key points
